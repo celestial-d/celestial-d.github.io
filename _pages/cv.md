@@ -11,49 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in Beijing, Beijing Union University, 2014
+* B.Eng. in Beijing, Beijing Union University, 2014
 * M.S. in Syracuse, Syracuse University, 2018
 * Ph.D in Ames, Iowa State University, 2023 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+Benchmarking for observability: The case of diagnosing storage failures
+Duo Zhang, Mai Zheng
+BenchCouncil Transactions on Benchmarks (Bench), 2021
+
+A study of persistent memory bugs in the Linux kernel
+Duo Zhang, Om Rameshwar Gatla, Wei Xu, Mai Zheng
+Proceedings of the 14th ACM International Conference on Systems and Storage (SYSTOR), 2021
+
+Fingerprinting the Checker Policies of Parallel File Systems
+Runzhou Han, Duo Zhang, Mai Zheng
+IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW), 2020
+
+On Failure Diagnosis of the Storage Stack
+Duo Zhang, Om R. Gatla, Runzhou Han, Mai Zheng
+12th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage-P), 2020	
+
+A Cross-Layer Approach for Diagnosing Storage System Failures
+Duo Zhang, Chander Bhushan Gupta, and Mai Zheng, Iowa State University; Adam Manzanares, Filip Blagojevic, and Cyril Guyot, Western Digital Research. 
+18th USENIX Conference on File and Storage Technologies (WIP), 2020
+
+    
+Teaching Experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* CPRE308 Operating Systems Principles and Practice, TA, 2021 and 2022
+* CPRE563X Advanced Data Storage Systems, 2022
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+*IEEE IPDPS 2021 reviewer
+*IEEE SECON 2019 reviewer
+*IEEE INFOCOM 2019 reviewer
+*IEEE VNC 2018 reviewer
+
