@@ -1,14 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "CPRE308 Operating Systems Principles and Practice (Teaching Assistent)"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Iowa State University"
+date: "2021 Fall, 2022 Spring"
+location: "Ames, USA"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
