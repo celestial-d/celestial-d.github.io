@@ -18,8 +18,8 @@ Education
 Publications
 ======
 * Benchmarking for observability: The case of diagnosing storage failures,
-Duo Zhang, Mai Zheng
-BenchCouncil Transactions on Benchmarks (Bench), 2021
+** Duo Zhang, Mai Zheng
+** BenchCouncil Transactions on Benchmarks (Bench), 2021
 
 * A study of persistent memory bugs in the Linux kernel,
 Duo Zhang, Om Rameshwar Gatla, Wei Xu, Mai Zheng
