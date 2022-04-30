@@ -43,7 +43,7 @@ Teaching Experience
 * CPRE308 Operating Systems Principles and Practice, Teaching Assistent, 2021 and 2022
 * CPRE563X Advanced Data Storage Systems, Teaching Assistent, 2022
   
-Service and leadership
+Service
 ======
 * IEEE IPDPS 2021 reviewer
 * IEEE SECON 2019 reviewer
