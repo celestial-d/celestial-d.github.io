@@ -12,4 +12,4 @@ Hi! I'm Duo Zhang, a Ph.D. student in [DSL](https://www.ece.iastate.edu/~mai/lab
 
 My work and research
 ======
-My current research focuses on storage system failures diagnosis and bug detection in persistent memory based system. My project involves virtual machines and staic analysis (LLVM).
+My current research focuses on storage system failures diagnosis and bug detection in persistent memory based system. My project involves virtual machines, tracers and staic analysis (LLVM).
