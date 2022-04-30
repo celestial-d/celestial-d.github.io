@@ -40,8 +40,8 @@ Duo Zhang, Chander Bhushan Gupta, and Mai Zheng, Iowa State University; Adam Man
     
 Teaching Experience
 ======
-* CPRE308 Operating Systems Principles and Practice, TA, 2021 and 2022
-* CPRE563X Advanced Data Storage Systems, 2022
+* CPRE308 Operating Systems Principles and Practice, Teaching Assistent, 2021 and 2022
+* CPRE563X Advanced Data Storage Systems, Teaching Assistent, 2022
   
 Service and leadership
 ======
