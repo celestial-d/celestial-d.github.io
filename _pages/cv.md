@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+
 * B.Eng. in Beijing, Beijing Union University, 2014
 * M.S. in Syracuse, Syracuse University, 2018
 * Ph.D in Ames, Iowa State University, 2023 (expected)
