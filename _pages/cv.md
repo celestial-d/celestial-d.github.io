@@ -18,19 +18,19 @@ Education
 Publications
 ======
 * Benchmarking for observability: The case of diagnosing storage failures,
-** Duo Zhang, Mai Zheng
-** BenchCouncil Transactions on Benchmarks (Bench), 2021
+ Duo Zhang, Mai Zheng.
+ BenchCouncil Transactions on Benchmarks (Bench), 2021
 
 * A study of persistent memory bugs in the Linux kernel,
-Duo Zhang, Om Rameshwar Gatla, Wei Xu, Mai Zheng
+Duo Zhang, Om Rameshwar Gatla, Wei Xu, Mai Zheng.
 Proceedings of the 14th ACM International Conference on Systems and Storage (SYSTOR), 2021
 
 * Fingerprinting the Checker Policies of Parallel File Systems,
-Runzhou Han, Duo Zhang, Mai Zheng
+Runzhou Han, Duo Zhang, Mai Zheng.
 IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW), 2020
 
 * On Failure Diagnosis of the Storage Stack,
-Duo Zhang, Om R. Gatla, Runzhou Han, Mai Zheng
+Duo Zhang, Om R. Gatla, Runzhou Han, Mai Zheng.
 12th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage-P), 2020	
 
 * A Cross-Layer Approach for Diagnosing Storage System Failures,
