@@ -45,13 +45,7 @@ Teaching Experience
   
 Service and leadership
 ======
-*IEEE IPDPS 2021 reviewer
-
-*IEEE SECON 2019 reviewer
-
-*IEEE INFOCOM 2019 reviewer
-
-*IEEE VNC 2018 reviewer
-* B.Eng. in Beijing, Beijing Union University, 2014
-* M.S. in Syracuse, Syracuse University, 2018
-* Ph.D in Ames, Iowa State University, 2023 (expected)
+* IEEE IPDPS 2021 reviewer
+* IEEE SECON 2019 reviewer
+* IEEE INFOCOM 2019 reviewer
+* IEEE VNC 2018 reviewer
