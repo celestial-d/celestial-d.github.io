@@ -14,9 +14,13 @@ redirect_from:
 
 Publications
 ======
+* Understanding Configuration Dependencies of File Systems, 
+  Tabassum Mahmud, _Duo Zhang_, Om Rameshwar Gatla, Mai Zheng.
+  Proceedings of the 14th ACM Workshop on Hot Topics in Storage and File Systems (HotStorage), 2022
+  
 * Benchmarking for observability: The case of diagnosing storage failures,
  _Duo Zhang_, Mai Zheng.
- BenchCouncil Transactions on Benchmarks (Bench), 2021
+ BenchCouncil Transactions on Benchmarks (TBench), 2021
 
 * A study of persistent memory bugs in the Linux kernel,
 _Duo Zhang_, Om Rameshwar Gatla, Wei Xu, Mai Zheng.
