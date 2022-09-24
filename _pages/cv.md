@@ -14,7 +14,7 @@ redirect_from:
 
 Publications
 ======
-*On the Reproducibility of Bugs in File-System Aware Storage Applications,
+* On the Reproducibility of Bugs in File-System Aware Storage Applications,
  _Duo Zhang_, Tabassum Mahmud, Om Rameshwar Gatla, Runzhou Han, Yong Chen and Mai Zheng
  16th International Conference on Networking, Architecture, and Storage (NAS), 2022
 
