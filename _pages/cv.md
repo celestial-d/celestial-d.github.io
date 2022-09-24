@@ -14,6 +14,10 @@ redirect_from:
 
 Publications
 ======
+*On the Reproducibility of Bugs in File-System Aware Storage Applications,
+ _Duo Zhang_, Tabassum Mahmud, Om Rameshwar Gatla, Runzhou Han, Yong Chen and Mai Zheng
+ 16th International Conference on Networking, Architecture, and Storage (NAS), 2022
+
 * Understanding Configuration Dependencies of File Systems, 
   Tabassum Mahmud, _Duo Zhang_, Om Rameshwar Gatla, Mai Zheng.
   Proceedings of the 14th ACM Workshop on Hot Topics in Storage and File Systems (HotStorage), 2022
