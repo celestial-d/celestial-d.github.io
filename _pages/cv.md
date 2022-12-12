@@ -17,13 +17,11 @@ Publications
 
 * ConfD: Analyzing Configuration Dependencies of File Systems for Fun and Profit,
  Tabassum Mahmud, Om Rameshwar Gatla, _Duo Zhang_, Carson Love, Ryan Bumann, Mai Zheng.
- 
- 21st USENIX Conference on File and Storage Technologies (FAST), 2023
+ Proceedings of the 21st USENIX Conference on File and Storage Technologies (FAST), 2023
 
 * On the Reproducibility of Bugs in File-System Aware Storage Applications,
  _Duo Zhang_, Tabassum Mahmud, Om Rameshwar Gatla, Runzhou Han, Yong Chen and Mai Zheng.
- 
- 16th International Conference on Networking, Architecture, and Storage (NAS), 2022
+ Proceedings of the 16th International Conference on Networking, Architecture, and Storage (NAS), 2022
 
 * Understanding Configuration Dependencies of File Systems, 
   Tabassum Mahmud, _Duo Zhang_, Om Rameshwar Gatla, Mai Zheng.
