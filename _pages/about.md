@@ -12,4 +12,4 @@ Hi! I'm Duo Zhang, a Ph.D. student in [Data Storage Lab](https://www.ece.iastate
 
 My work and research
 ======
-My current research focuses on storage system failures diagnosis and bug detection in persistent memory based system. My project involves virtual machines, tracers and static analysis (LLVM).
+My current research focuses on exploration of bug reproducibilities and the reliability issues of the storage system with emerging storage technologies (e.g., persistent memory). I am particularly interested in developing a virtual machine-based crash consistency testing framework without relying on hardware. My project involves virtual machines (QEMU), tracers(e.g., kprobe) and static analysis (LLVM).
