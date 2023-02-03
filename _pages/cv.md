@@ -14,6 +14,9 @@ redirect_from:
 
 Publications
 ======
+* On the Scalability of Testing the Crash Consistency of PM Systems,
+_Duo Zhang_, Om Rameshwar Gatla, and Mai Zheng, Iowa State University; Abdullah Al Raqibul Islam, and Dong Dai, (University of North Carolina at Charlotte. 
+21th USENIX Conference on File and Storage Technologies (WIP), 2023
 
 * ConfD: Analyzing Configuration Dependencies of File Systems for Fun and Profit,
  Tabassum Mahmud, Om Rameshwar Gatla, _Duo Zhang_, Carson Love, Ryan Bumann, Mai Zheng.
