@@ -14,6 +14,18 @@ redirect_from:
 
 Publications
 ======
+* Analyzing Configuration Dependencies of DAX File Systems,
+Tabassum Mahmud, Om Rameshwar Gatla, _Duo Zhang_, Carson Love, Ryan Bumann, and Mai Zheng, Iowa State University. 
+14th Annual Non-Volatile Memories Workshop (NVMW), 2023
+
+* On the Scalability of Testing the Crash Consistency of PM Systems,
+_Duo Zhang_ and Om Rameshwar Gatla, Iowa State University; Abdullah Al Raqibul Islam and Dong Dai, University of North Carolina at Charlotte; Mai Zheng, Iowa State University.
+21th USENIX Conference on File and Storage Technologies (FAST-WIP), 2023
+
+* ConfD: Analyzing Configuration Dependencies of File Systems for Fun and Profit,
+Tabassum Mahmud, Om Rameshwar Gatla, _Duo Zhang_, Carson Love, Ryan Bumann, and Mai Zheng, Iowa State University.
+21th USENIX Conference on File and Storage Technologies(FAST), 2023
+
 * On the Scalability of Testing the Crash Consistency of PM Systems,
 _Duo Zhang_, Om Rameshwar Gatla, and Mai Zheng, Iowa State University; Abdullah Al Raqibul Islam, and Dong Dai, University of North Carolina at Charlotte. 
 21th USENIX Conference on File and Storage Technologies (WIP), 2023
@@ -48,7 +60,7 @@ _Duo Zhang_, Om R. Gatla, Runzhou Han, Mai Zheng.
 
 * A Cross-Layer Approach for Diagnosing Storage System Failures,
 _Duo Zhang_, Chander Bhushan Gupta, and Mai Zheng, Iowa State University; Adam Manzanares, Filip Blagojevic, and Cyril Guyot, Western Digital Research. 
-18th USENIX Conference on File and Storage Technologies (WIP), 2020
+18th USENIX Conference on File and Storage Technologies (FAST-WIP), 2020
 
     
 Teaching Experience
