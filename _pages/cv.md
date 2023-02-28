@@ -48,7 +48,7 @@ IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW), 2020
 
 * On Failure Diagnosis of the Storage Stack,
 _Duo Zhang_, Om R. Gatla, Runzhou Han, Mai Zheng.
-12th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage-P), 2020	
+Proceedings of the 12th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage-P), 2020	
 
 * A Cross-Layer Approach for Diagnosing Storage System Failures,
 _Duo Zhang_, Chander Bhushan Gupta, and Mai Zheng, Iowa State University; Adam Manzanares, Filip Blagojevic, and Cyril Guyot, Western Digital Research. 
