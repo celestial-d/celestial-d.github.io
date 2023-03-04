@@ -29,7 +29,9 @@ My work focuses on system behavior understanding, testing, and debugging:
 
 * Parallel File System (e.g., BeeGFS)
 
-    _Duo Zhang_, Om Rameshwar Gatla, and Mai Zheng, Iowa State University; Abdullah Al Raqibul Islam, and Dong Dai, University of North Carolina at Charlotte. 
-    Proceedings of the 21th USENIX Conference on File and Storage Technologies (FAST-WIP), 2023
+    Parallel storage systems are deployed widely in data centers and national labs to empower data-intensive computing. However, correctness issues and scalablity issues may still result in several unexpected behaviors such as data loss and system hang. We build a framework to perform a taxonomy for parallel file system:
+    1. We explored the PFSes structure and bug cases, then identified several potencial scenarios.
+    2. We designed experiments to generate inconsistency mapping potencial scenarios and check whether PFSes can response correctly and perform correct recovery.
+   
 
 
