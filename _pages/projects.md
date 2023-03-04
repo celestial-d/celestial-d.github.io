@@ -17,7 +17,7 @@ My work focuses on system behavior understanding, testing, and debugging:
     4. We leveraged existing persistent memory bug cases to evaluate different persistent memory emulation method and identified potential emulation problem.
     5. We leveraged Virtual Machine to emulate power failure to test crash consistency issues in non-volatile memory system, and identified multiple vulnerabilities.
       
-    examples[Editing a markdown file for a talk](/images/editing-talk.png)
+    !examples[Editing a markdown file for a talk](/images/editing-talk.png)
 
 * Local File System (e.g, EXT4 and XFS) & Utilities
 
