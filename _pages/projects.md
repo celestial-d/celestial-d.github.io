@@ -17,12 +17,15 @@ My work focuses on system behavior understanding, testing, and debugging:
     4. We leveraged existing persistent memory bug cases to evaluate different persistent memory emulation method and identified potential emulation problem.
     5. We leveraged Virtual Machine to emulate power failure to test crash consistency issues in non-volatile memory system, and identified multiple vulnerabilities.
       
-    Example: editing a markdown file for a talk ![Editing a markdown file for a talk](/images/editing-talk.png)
+    [Editing a markdown file for a talk](/images/editing-talk.png)
 
 * Local File System (e.g, EXT4 and XFS) & Utilities
 
-    _Duo Zhang_, Om Rameshwar Gatla, and Mai Zheng, Iowa State University; Abdullah Al Raqibul Islam, and Dong Dai, University of North Carolina at Charlotte. 
-    Proceedings of the 21th USENIX Conference on File and Storage Technologies (FAST-WIP), 2023
+    Local file system are stilla key component in storage system. To accommodate modern system and application requirements, local file system added multiple features  and changed aggressively. Such varies contribute to multiple vulnerabilities, and may result in unexpected behaviors such as data loss, server's downtime and system crash. We did multiple study and testing in different aspects:
+   1. We collected local file system bug cases in Bugzilla and Linux kernel source tree, then we reproduce some of real-world system failure. Through our experiments and detailed analysis, we concluded several key features that affect reproducibility of bug cases.
+   2. We leveraged existing tracers such as strace, ftrace, systemTap and perf to capture kernel function level info. At the same time, we rely on scsi-tool to capture device commands. Based on these two types of info, we identified the relationship between them and provided a new cross-layer dianogis method.
+   3. We modified virtual machine structure to capture device commands and instructions, and performed a full-stack and novel cross-layer diagnosis method. OUr experiments shows that the diagnosis method can help developers spend less time understanding the system behavior and pinpoint the root casue.
+   4. We leveraged static analysis (LLVM) to extract file system configuration dependencies, then we perform testing with five different modified exisinting tools. The experiments explore several local file system issues.
 
 * Parallel File System (e.g., BeeGFS)
 
