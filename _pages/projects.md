@@ -12,6 +12,7 @@ My work focuses on system behavior understanding, testing, and debugging:
 
     Tabassum Mahmud, Om Rameshwar Gatla, _Duo Zhang_, Carson Love, Ryan Bumann, and Mai Zheng, Iowa State University. 
     Proceedings of the 14th Annual Non-Volatile Memories Workshop (NVMW), 2023
+    Example: editing a markdown file for a talk ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 * Local File System (e.g, EXT4 and XFS) & Utilities
 
