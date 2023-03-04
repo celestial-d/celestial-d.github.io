@@ -10,8 +10,7 @@ My work focuses on system behavior understanding, testing, and debugging:
 
 * Implications of Non-Volatile Memories
 
-    Tabassum Mahmud, Om Rameshwar Gatla, _Duo Zhang_, Carson Love, Ryan Bumann, and Mai Zheng, Iowa State University. 
-    Proceedings of the 14th Annual Non-Volatile Memories Workshop (NVMW), 2023
+    **Non-volatile memory (NVM) technologies, including flash-based solid-state drives (SSD) and byte-addressable persistent memories (PM) have a great impact on modern       storage system.
     Example: editing a markdown file for a talk ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 * Local File System (e.g, EXT4 and XFS) & Utilities
