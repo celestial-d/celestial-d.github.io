@@ -3,14 +3,8 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
-redirect_from:
-  - /resume
----
 
-{% include base_path %}
-* Ph.D in Ames, Iowa State University, 2023 (expected)
-* M.S. in Syracuse, Syracuse University, 2018
-* B.Eng. in Beijing, Beijing Union University, 2014
+---
 
 Publications
 ======
@@ -53,16 +47,3 @@ Proceedings of the 12th USENIX Workshop on Hot Topics in Storage and File System
 * A Cross-Layer Approach for Diagnosing Storage System Failures,
 _Duo Zhang_, Chander Bhushan Gupta, and Mai Zheng, Iowa State University; Adam Manzanares, Filip Blagojevic, and Cyril Guyot, Western Digital Research. 
 Proceedings of the 18th USENIX Conference on File and Storage Technologies (FAST-WIP), 2020
-
-    
-Teaching Experience
-======
-* CPRE308 Operating Systems Principles and Practice, Teaching Assistant, 2021, 2022, and 2023
-* CPRE563X Advanced Data Storage Systems, Teaching Assistant, 2022
-  
-Service
-======
-* IEEE IPDPS 2021 reviewer
-* IEEE SECON 2019 reviewer
-* IEEE INFOCOM 2019 reviewer
-* IEEE VNC 2018 reviewer
