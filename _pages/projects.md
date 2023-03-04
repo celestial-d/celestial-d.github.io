@@ -15,7 +15,7 @@ My work focuses on system behavior understanding, testing, and debugging:
     2. We leveraged Virtual Machine (QEMU) to reproduce persistent memory related bug cases and provided extra plugins to improve debugging support.
     3. We leveraged static analyzer(LLVM) to perform inter and intra function analysis to test persistent memory drivers and found out several potential vulnerabilities.
     4. We leveraged existing persistent memory bug cases to evaluate different persistent memory emulation method and identified potential emulation problem.
-    5. We leverage Virtual Machine to emulate power failure to test crash consistency issues in non-volatile memory system, and identified multiple vulnerabilities.
+    5. We leveraged Virtual Machine to emulate power failure to test crash consistency issues in non-volatile memory system, and identified multiple vulnerabilities.
       
     Example: editing a markdown file for a talk ![Editing a markdown file for a talk](/images/editing-talk.png)
 
