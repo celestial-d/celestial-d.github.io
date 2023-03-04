@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-My work focuses on system behavior understanding, testing and debugging:
+My work focuses on system behavior understanding, testing, and debugging:
 
 * Persistent Memory System
 
