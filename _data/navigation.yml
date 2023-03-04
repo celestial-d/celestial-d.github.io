@@ -5,3 +5,7 @@ main:
     
   - title: "Contact"
     url: /contact/
+  
+  - title: "Projects"
+    url: /publications/
+  
