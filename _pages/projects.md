@@ -8,7 +8,8 @@ author_profile: true
 
 My work focuses on system behavior understanding, testing, and debugging:
 
-* [Implications of Non-Volatile Memories](/images/editing-talk.png)
+* Non-Volatile Memories
+![Implications of Non-Volatile Memories](/images/nvm.jpg)
 
     Non-volatile memory (NVM) technologies, including flash-based solid-state drives (SSD) and byte-addressable persistent memories (PM) have a great impact on modern       storage system. Unfortunately, building a robust modern system with such new devices is time-consuming since the software stack changed aggressively, and it is hard   to understand system behavior correctly. We collect kernel bug cases,and leverage modern technologies such as virtual machine and static analysis to explore the system:
     1. We collected persistent memory related patches in the Linux kernel tree automatically and analyzed patches in detail, Through the study, we extract several implcations of persistent memory bugs.
