@@ -10,26 +10,26 @@ My work focuses on system behavior understanding, testing, and debugging:
 
 * Non-Volatile Memories
 ![Non-Volatile Memories](/images/nvm.jpg)
-    Non-volatile memory (NVM) technologies, including flash-based solid-state drives (SSD) and byte-addressable persistent memories (PM) have a great impact on modern       storage system. Unfortunately, building a robust modern system with such new devices is time-consuming since the software stack changed aggressively, and it is hard   to understand system behavior correctly. We collect kernel bug cases,and leverage modern technologies such as virtual machine and static analysis to analyze the system:
-    1. We collected persistent memory related patches in the Linux kernel tree automatically and analyzed patches in detail, Through the study, we extract several implcations of persistent memory bugs, which contributues to several persistent memory system bug detecetion works.
-    2. We leveraged virtual machine (QEMU) to reproduce persistent memory related bug cases and provided extra plugins to improve debugging support.
-    3. We leveraged static analyzer based on LLVM to perform inter and intra function analysis to test persistent memory drivers and found out several potential vulnerabilities.
-    4. We leveraged existing persistent memory bug cases to evaluate different persistent memory emulation method and identified potential emulation problem.
-    5. We leveraged Virtual Machine to emulate power failure to test crash consistency issues in non-volatile memory system, and identified multiple vulnerabilities.
+    Non-volatile memory (NVM) technologies, such as flash-based solid-state drives (SSD) and byte-addressable persistent memories (PM), wield significant influence over contemporary storage systems. Regrettably, constructing a resilient modern system incorporating these innovative devices is a time-consuming endeavor due to the radical changes in the software stack and the complexity of accurately comprehending system behavior. To address these challenges, our approach entails the aggregation of kernel bug cases, along with the utilization of cutting-edge technologies like virtual machines and static analysis for system analysis:
+    1. We automated the collection of patches related to persistent memory within the Linux kernel tree and subjected these patches to in-depth analysis. This comprehensive study allowed us to extract various insights into persistent memory bugs, subsequently contributing to the development of multiple persistent memory system bug detection methodologies.
+    2. We leveraged virtual machine (QEMU) to reproduce persistent memory-related bug cases and provided extra plugins to improve debugging support.
+    3. Employing a static analyzer based on LLVM, we conducted both inter and intra function analyses to scrutinize persistent memory drivers, thereby uncovering several potential vulnerabilities.
+    4. Leveraging pre-existing persistent memory bug cases, we evaluated various methods of emulating persistent memory and identified potential emulation-related challenges.
+    5. Employing virtual machines, we simulated power failures to examine crash consistency issues within non-volatile memory systems. This investigation led to the identification of multiple vulnerabilities in this context.
 
 * Local File System (e.g, EXT4 and XFS) & Utilities
 ![Local File System](/images/local.jpg)
-    Local file systems is still a key component in storage system. To accommodate modern system and application requirements, local file system added multiple features  and changed aggressively. Such varies contributes to multiple vulnerabilities, and may result in unexpected behaviors such as data loss, server's downtime and system crash. We perfrom studies and testing in different aspects:
-   1. We collected local file system bug cases in Bugzilla and Linux kernel source tree, then we reproduce some of real-world system failures. Through our experiments and detailed analysis, we concluded several key reproducibility features of bug cases.
-   2. We leveraged existing tracers such as strace, ftrace, systemTap, and perf to capture kernel level info. We also relied on scsi-tool to capture device commands. Based on these two types of info, we provided a new cross-layer diagnosis method.
-   3. We modified virtual machine structure to capture device commands and instructions, and performed a full-stack and novel cross-layer diagnosis method. OUr experiments shows that the diagnosis method can help developers spend less time understanding the system behavior and pinpoint the root casue.
-   4. We leveraged static analysis based on LLVM to extract file system configuration dependencies, then performed testing with five different modified exisinting tools. The experiments explore several local file system issues.
+    Local file systems remain a pivotal component of storage systems. To align with the demands of modern systems and applications, local file systems have undergone significant evolution, introducing numerous features. However, these changes have given rise to multiple vulnerabilities and the potential for unforeseen consequences, such as data loss, server downtime, and system crashes. Our comprehensive approach encompasses studies and testing across various dimensions:
+   1. We initiated our efforts by amassing instances of local file system issues from Bugzilla and the Linux kernel source tree. Subsequently, we recreated select real-world system failures. Our experiments, coupled with detailed analyses, culminated in the identification of several pivotal reproducibility patterns within these issue cases.
+   2. To gain insights at the kernel level, we harnessed established tracers like Strace, FTrace, SystemTap, and perf to capture relevant system data. Additionally, we employed scsi-tool to record device commands. This dual-source information allowed us to introduce a novel cross-layer diagnostic method.
+   3. Our innovation extended to modifying the virtual machine structure to capture device commands and instructions. This led to the development of a comprehensive, cross-layer diagnostic approach that covers the entire stack. Our experiments corroborated the effectiveness of this method, as it streamlines the process of comprehending system behavior and isolating root causes.
+   4. Leveraging static analysis by LLVM, we systematically extracted dependencies within file system configurations. Subsequently, we conducted testing using five different adapted existing tools. These experiments were instrumental in uncovering various local file system issues.
 
 * Parallel File System (e.g., BeeGFS)
 ![Parallel File System](/images/pfs.jpg)
-    Parallel storage systems are deployed widely in data centers and national labs to empower data-intensive computing. However, correctness issues and scalablity issues may still result in several unexpected behaviors such as data loss and system hang. We build a framework to perform a taxonomy for parallel file system:
-    1. We explored the PFSes structure and bug cases, then identified several potencial scenarios.
-    2. We designed experiments to generate inconsistency mapping potencial scenarios and check whether PFSes can response correctly and perform correct recovery.
+    Parallel storage systems find extensive deployment in data centers and national laboratories, facilitating data-intensive computing tasks. Nonetheless, issues related to correctness and scalability can lead to unforeseen problems, such as data loss and system unresponsiveness. To address these concerns, we have developed a framework for conducting a taxonomy of parallel file systems:
+    1. Our initial step involved a thorough examination of the structures and documented bug cases within parallel file systems. This analysis allowed us to pinpoint several potential scenarios of concern.
+    2. Subsequently, we devised a series of experiments aimed at generating inconsistency scenarios and assessing the ability of parallel file systems to respond appropriately and execute correct recovery procedures.
    
 
 
