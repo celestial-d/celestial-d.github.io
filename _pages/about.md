@@ -16,7 +16,10 @@ My current research interests focus on exploration of bug reproducibility and th
 
 <h2 id="News">News!</h2>
 
-- [Sept. 2023] I expect to graduate in Dec. 2023 and am looking for a full time position.
+- [09/2023] I expect to graduate in Dec. 2023 and am looking for a full time position!
+- [05/2023] One paper to appear in ACM TOS! Thank the reviewers for constructive feedback!
+- [02/2023] One paper accepted in NVMW'23! Thank the reviewers for constructive feedback!
+- [12/2022] One paper on file systems accepted in FAST'23! Thank the reviewers for constructive feedback!
 
 <h2 id="Education">Education</h2>
 
