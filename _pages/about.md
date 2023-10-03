@@ -33,9 +33,9 @@ My current research interests focus on exploration of **bug reproducibility** an
 Please check a full list at [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=QXwhPMkAAAAJ)
 
 - "Analyzing Configuration Dependencies of DAX File Systems",
-Tabassum Mahmud, Om Rameshwar Gatla,**Duo Zhan**, Carson Love, Ryan Bumann, and Mai Zheng, Iowa State University. Proceedings of the 14th Annual Non-Volatile Memories Workshop (NVMW), 2023
+Tabassum Mahmud, Om Rameshwar Gatla, **Duo Zhang**, Carson Love, Ryan Bumann, and Mai Zheng, Iowa State University. Proceedings of the 14th Annual Non-Volatile Memories Workshop (NVMW), 2023
 
-- "On the Scalability of Testing the Crash Consistency of PM Systems",**Duo Zhang**, Om Rameshwar Gatla, and Mai Zheng, Iowa State University; Abdullah Al Raqibul Islam, and Dong Dai, University of North Carolina at Charlotte. Proceedings of the 21th USENIX Conference on File and Storage Technologies (FAST-WIP), 2023
+- "On the Scalability of Testing the Crash Consistency of PM Systems", **Duo Zhang**, Om Rameshwar Gatla, and Mai Zheng, Iowa State University; Abdullah Al Raqibul Islam, and Dong Dai, University of North Carolina at Charlotte. Proceedings of the 21th USENIX Conference on File and Storage Technologies (FAST-WIP), 2023
 
 - "ConfD: Analyzing Configuration Dependencies of File Systems for Fun and Profit",
  Tabassum Mahmud, Om Rameshwar Gatla, **Duo Zhang**, Carson Love, Ryan Bumann, Mai Zheng. Proceedings of the 21st USENIX Conference on File and Storage Technologies (FAST), 2023
@@ -49,9 +49,9 @@ Tabassum Mahmud, Om Rameshwar Gatla,**Duo Zhan**, Carson Love, Ryan Bumann, and 
 - "Benchmarking for observability: The case of diagnosing storage failures",
  **Duo Zhang**, Mai Zheng. BenchCouncil Transactions on Benchmarks (TBench), 2021
 
-- "A study of persistent memory bugs in the Linux kernel",**Duo Zhan**, Om Rameshwar Gatla, Wei Xu, Mai Zheng. Proceedings of the 14th ACM International Conference on Systems and Storage (SYSTOR), 2021
+- "A study of persistent memory bugs in the Linux kernel",**Duo Zhang**, Om Rameshwar Gatla, Wei Xu, Mai Zheng. Proceedings of the 14th ACM International Conference on Systems and Storage (SYSTOR), 2021
 
-- "Fingerprinting the Checker Policies of Parallel File Systems", Runzhou Han,**Duo Zhan**, Mai Zheng. IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW), 2020
+- "Fingerprinting the Checker Policies of Parallel File Systems", Runzhou Han,**Duo Zhang**, Mai Zheng. IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW), 2020
 
 - "On Failure Diagnosis of the Storage Stack",
 **Duo Zhang**, Om R. Gatla, Runzhou Han, Mai Zheng.
