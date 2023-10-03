@@ -25,7 +25,7 @@ My current research interests focus on exploration of bug reproducibility and th
 * B.Eng. in Beijing, Beijing Union University, 2014
 
 
-<h2 id="Publications">Recent and Selected Publications</h2>
+<h2 id="Publications">Selected Publications</h2>
 
 Please check a full list at [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=QXwhPMkAAAAJ)
 
