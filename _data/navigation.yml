@@ -1,12 +1,24 @@
 # main links links
-main:  
-  - title: "CV"
-    url: /cv/
+main:
+
+  - title: "News"
+    url: /#News
+
+  - title: "Education"
+    url: /#Education
+    
+  - title: "Publications"
+    url: /#Publications
+
+  - title: "Teaching"
+    url: /#Teaching
+
+  - title: "Service"
+    url: /#Service
+    
+  - title: "Projects"
+    url: /#Research
     
   - title: "Contact"
-    url: /contact/
-  
-  - title: "Projects"
-    url: /projects/
-
+    url: /#Contact
   
