@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Duo Zhang, a Ph.D. candidate in [Data Storage Lab](https://www.ece.iastate.edu/~mai/lab/dsl.html) at Iowa State University. I'm interested in all things involving the storage system. 
 
-For more information, please click here for the [Curriculum Vitae](https://github.com/celestial-d/celestial-d.github.io/blob/master/files/CV.pdf)
+For more information, please click here for the [Curriculum Vitae](https://github.com/celestial-d/celestial-d.github.io/blob/master/files/CV_Duo.pdf)
 
 My current research interests focus on exploration of **bug reproducibility** and the **reliability** issues of the **storage system** with advanced storage technologies (e.g., persistent memory, CXL). Specifically, I am interested in developing noval system testing frameworks through state-of-the-art tools (i.e., virtual machines (QEMU), tracers(e.g., kprobe) and static analysis (LLVM)).
 
