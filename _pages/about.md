@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Duo Zhang, a Ph.D. candidate in [Data Storage Lab](https://www.ece.iastate.edu/~mai/lab/dsl.html) at Iowa State University. I'm interested in all things involving the storage system. 
+Hi! I'm Duo Zhang and got my Ph.D. degree in [Data Storage Lab](https://www.ece.iastate.edu/~mai/lab/dsl.html) at Iowa State University. I'm interested in all things involving the storage system. 
 
 For more information, please click here for the [Curriculum Vitae](https://github.com/celestial-d/celestial-d.github.io/blob/master/files/CV_Duo.pdf)
 
