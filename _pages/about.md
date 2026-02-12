@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Duo Zhang and got my Ph.D. degree in [Data Storage Lab](https://www.ece.iastate.edu/~mai/lab/dsl.html) at Iowa State University. I'm interested in all things involving the storage system. 
+Hi! I’m Duo Zhang. I earned my Ph.D. from the [Data Storage Lab](https://www.ece.iastate.edu/~mai/lab/dsl.html) at Iowa State University. Before joining SK hynix, I worked as a postdoctoral researcher from the [PADSYS Lab](https://padsys.org) at UC Merced, where I focused on HPC-AI systems and large-scale computing. I am currently working at SK hynix, and my research interests broadly center on storage systems and related technologies.
 
 For more information, please click here for the [Curriculum Vitae](https://github.com/celestial-d/celestial-d.github.io/blob/master/files/CV_Duo.pdf)
 
@@ -16,7 +16,10 @@ My current research interests focus on exploration of **bug reproducibility** an
 
 <h2 id="News">News!</h2>
 
-- **[12/2023] I graduated in Dec. 2023 and am looking for a full time position!**
+- [12/2025] Join SK HYNIX!
+- [09/2025] One paper to appear in SEC'25! Thank the reviewers for constructive feedback!
+- [06/2025] One paper to appear in SC'25! Thank the reviewers for constructive feedback!
+- [12/2023] I graduated in Dec. 2023 and am looking for a full time position!
 - [05/2023] One paper to appear in ACM TOS! Thank the reviewers for constructive feedback!
 - [02/2023] One paper accepted in NVMW'23! Thank the reviewers for constructive feedback!
 - [12/2022] One paper on file systems accepted in FAST'23! Thank the reviewers for constructive feedback!
