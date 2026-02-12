@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I’m Duo Zhang. I earned my Ph.D. from the [Data Storage Lab](https://www.ece.iastate.edu/~mai/lab/dsl.html) at Iowa State University. Before joining SK hynix, I worked as a postdoctoral researcher from the [PADSYS Lab](https://padsys.org) at UC Merced, where I focused on HPC-AI systems and large-scale computing. I am currently working at SK hynix, and my research interests broadly center on storage systems and related technologies.
 
-For more information, please click here for the [Curriculum Vitae](https://github.com/celestial-d/celestial-d.github.io/blob/master/files/CV_Duo.pdf)
+For more information, please click here for the [Curriculum Vitae](https://github.com/celestial-d/celestial-d.github.io/blob/master/files/Resume_duozhang_general-3.pdf)
 
 My current research interests focus on exploration of **bug reproducibility** and the **reliability** issues of the **storage system** with advanced storage technologies (e.g., persistent memory, CXL). Specifically, I am interested in developing noval system testing frameworks through state-of-the-art tools (i.e., virtual machines (QEMU), tracers(e.g., kprobe) and static analysis (LLVM)).
 
