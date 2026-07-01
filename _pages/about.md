@@ -28,7 +28,7 @@ My current research focuses on leveraging emerging hardware technologies, such a
 
 <h2 id="Education">Education</h2>
 
-* Ph.D. in Ames, Iowa State University, 2023 (expected)
+* Ph.D. in Ames, Iowa State University, 2023 
 * M.S. in Syracuse, Syracuse University, 2018
 * B.Eng. in Beijing, Beijing Union University, 2014
 
